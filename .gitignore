@@ -2,13 +2,13 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Contents/Characters
-Contents/Level Prototyping
-Contents/ThirdPerson
-Contents/__ExternalActors__
-Contents/__ExternalObjects__
-Contents/Collections
-Contents/Developers
+Content/Characters
+Content/LevelPrototyping
+Content/ThirdPerson
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/Collections
+Content/Developers
 .vscode
 .vs
 *.VC.db
