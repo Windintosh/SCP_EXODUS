@@ -2,6 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Content/StarterContent
 Content/Characters
 Content/LevelPrototyping
 Content/ThirdPerson
@@ -9,6 +10,9 @@ Content/__ExternalActors__
 Content/__ExternalObjects__
 Content/Collections
 Content/Developers
+Content/Fab
+Content/LAB
+Content/MSPresets
 Content/SCPEXODUS/TEST
 .vscode
 .vs
