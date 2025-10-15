@@ -22,5 +22,8 @@
 			"Name": "MfMedia",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
