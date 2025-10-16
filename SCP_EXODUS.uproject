@@ -21,6 +21,10 @@
 		{
 			"Name": "MfMedia",
 			"Enabled": true
+		},
+		{
+			"Name": "PreLoadScreenMoviePlayer",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
