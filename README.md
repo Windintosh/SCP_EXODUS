@@ -1,4 +1,4 @@
-# ⚠️ SCP EXODUS: The Emergency Escape Process
+# ⚠️ SCP EXODUS: Emergency Escape Process
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad8d4c69-baa9-48c8-bf69-5d6a1ef872d1" alt="SCP EXODUS Main Menu Banner" width="900"/>
@@ -17,7 +17,7 @@
 
 | 항목 | 내용 |
 | :--- | :--- |
-| **장르** | **Third-Person Survival Horror (Time-Attack)** |
+| **장르** | **Third-Person Survival Horror** |
 | **목표** |  옥상 헬기장에 도달 및 탈출. |
 | **난이도** | 탄약 고갈 및 누적 대미지 기반의 **느린 소모(Attrition)** 공포. |
 | **시점** | 3인칭 (TPS) |
@@ -47,7 +47,7 @@
     <tr>
       <td>🍖Creep</td>
       <td>살덩이 괴인</td>
-      <td>느리지만 처치에 12발(초기 탄창 60%)이 필요한 **자원 게이트** 역할.</td>
+      <td>느리지만 처치에 12발(초기 탄창 60%)이 필요한 자원 게이트 역할.</td>
       <td>12발 (60 HP)</td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@
 * **게임 엔진:** Unreal Engine 5.4
 * **개발 기간:** 3 Weeks
 * **개발 팀:** 3인 (PM/기획, 수석 프로그래머, 테크니컬 아티스트)
-* **주요 기능:** 미디어 플레이어 체인, IK Retargeting, Sound Cue 랜덤 재생 시스템.
+* **주요 기능:** 슈팅 액션, 미디어 플레이어 체인, IK Retargeting, Sound Cue.
 
 ### 개발 팀 구성
 
