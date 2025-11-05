@@ -1,7 +1,7 @@
 # ⚠️ SCP EXODUS: Emergency Escape Process
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ad8d4c69-baa9-48c8-bf69-5d6a1ef872d1" alt="SCP EXODUS Main Menu Banner" width="900"/>
+  <img src="[https://github.com/user-attachments/assets/ad8d4c69-baa9-48c8-bf69-5d6a1ef872d1" alt="SCP EXODUS Main Menu Banner](https://wax-passbook-93d.notion.site/SCP_EXODUS_MAIN-27ae919330e38018a680c656bb14dda3?source=copy_link)" width="900"/>
 </p>
 
 ---
